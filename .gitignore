@@ -1,0 +1,16 @@
+# Python 相關暫存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 測試框架暫存
+.pytest_cache/
+
+# 作業與專案可能產生的暫存圖片或大檔案
+*.png
+*.jpg
+*.zip
+
+# 個人機密檔案
+.env
+.DS_Store
